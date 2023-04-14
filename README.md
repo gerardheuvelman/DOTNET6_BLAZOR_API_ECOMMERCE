@@ -1,0 +1,2 @@
+# DOTNET6_BLAZOR_API_ECOMMERCE
+## Blazor (WASM/Server) + Web API
